@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+div{
+    height: 140px;
+    font-size: 0px;
+}
+.col{
+    display: inline-block;
+    height: 100%;
+    width: 33.33%;
+}
+.col1{
+    display: inline-block;
+    height: 100%;
+    width: 50%;
+}
+
+.row1{
+    height: 50%;
+}
+
+.col2{
+    display: inline-block;
+    height: 100%;
+    width: 30%;
+}
+.n_col2{
+    height: 50%;
+    width: 100%;
+}
+
+.col3{
+    display: inline-block;
+    height: 100%;
+    width: 15%;
+}
+
+.col23{
+    display: inline-block;
+    height: 100%;
+    width: 40%;
+}
+
+.n_col23{
+    height: 33.33%;
+    width: 100%;
+}
+
+.col4{
+    display: inline-block;
+    height: 100%;
+    width: 50%;
+}
